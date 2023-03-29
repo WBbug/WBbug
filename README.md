@@ -1,3 +1,3 @@
-### Hi there 👋
-
-https://camo.githubusercontent.com/0681dc6a97e9857e87f2d6194f62986dfd9f3e55049cf8dc7f5d31ca340644fd/68747470733a2f2f6275626b6f6f2d7365727665722e76657263656c2e6170702f333635646f7473
+<p align="center">
+  <img src="https://bubkoo-server.vercel.app/365dots" height="196"/>
+</p>
